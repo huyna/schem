@@ -104,7 +104,7 @@ implementation that can be used to increment 1/2/4/8 byte integers, there is no
 proper way to modify memory in meaningful ways (TODO issue)
 
 Changing types in memory view <br>
-![Changing types in memory view](http://hexgolems.github.io/schem/gifs/v0.2/memtypes.gif)
+
 
 Register view
 --------------
@@ -113,10 +113,10 @@ structure. Special registers will currently only be displayed without
 proper formatting and with no ability to edit them (TODO issue).
 
 Editing regsiters <br>
-![Editing regsiters](http://hexgolems.github.io/schem/gifs/v0.2/register.gif)
+
 
 Taking a jump by changing flags <br>
-![Taking a jump by changing flags](http://hexgolems.github.io/schem/gifs/v0.2/regtoggle.gif)
+
 
 Stack view
 -----------
@@ -136,13 +136,13 @@ For disassembly, the controller generates a static mapping that contains the typ
 but in the future labels will be used, if they are available.
 
 Adding and deleting breakpoints <br>
-![Adding and deleting breakpoints](http://hexgolems.github.io/schem/gifs/v0.2/breakpoint.gif)
+
 
 Entering and leaving functions <br>
-![Entering and leaving functions](http://hexgolems.github.io/schem/gifs/v0.2/enterleave.gif)
+
 
 Goto label and adding a new label <br>
-![Goto label and adding a new label](http://hexgolems.github.io/schem/gifs/v0.2/label.gif)
+
 
 Expression View
 ----------------
@@ -150,7 +150,7 @@ The expression view allows the user to evaluate given ruby snippet on every
 stop to supply her/him with up-to-date information whenever the debugger stops.
 
 Adding a watch expression <br>
-![Adding a watch expression](http://hexgolems.github.io/schem/gifs/v0.2/watchexp.gif)
+
 
 Disassembly
 ------------
